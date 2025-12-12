@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/slove/obj/Debug
+/slove/node_modules
+/slove/.angular/cache/19.2.19/slove
+/.vs/slove
